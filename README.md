@@ -1,0 +1,2 @@
+# simpledjango
+django project
